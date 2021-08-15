@@ -1,4 +1,4 @@
-#redux-example
+# redux-example
 
 This project contains two directories : 
 
